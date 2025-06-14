@@ -1,0 +1,8 @@
+# This file is used to specify the dependencies for the project.
+# Each line should contain a package name and optionally a version specifier.
+# For example: package==version
+numpy
+scipy
+NLTK
+pandas
+click
