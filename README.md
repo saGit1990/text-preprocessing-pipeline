@@ -1,5 +1,5 @@
 # Text Preprocessing Pipeline (Day 1 - NLP Project)
-Day 1 NLP Project - Classical text cleaning and preprocessing using NLTK and spacy
+**Day 1 NLP Project - Classical text cleaning and preprocessing using NLTK and spacy**
 
 This project implement a classical NLP preprocessing pipeline:
 - Lowercasing, punctuation removal
