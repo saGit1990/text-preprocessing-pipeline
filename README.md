@@ -12,9 +12,9 @@ This project implement a classical NLP preprocessing pipeline:
 - pandas
 
 ### Files
-- 'preprocessing.ipynb': Main notebook
-- 'cleaned_text.json': sample output
-- 'requirements.txt': Dependencies
+- preprocessing.ipynb: Main notebook
+- cleaned_text.json: sample output
+- requirements.txt: Dependencies
 - utils.py
 - main.py
 
