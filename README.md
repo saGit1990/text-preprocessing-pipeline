@@ -18,4 +18,11 @@ This project implement a classical NLP preprocessing pipeline:
 - utils.py
 - main.py
 
+### How to run?
+- Clone the package
+- Create a virtual environment
+- Install the dependencies
+- Run the following code:
+    'python main.py'
+
 **Part of my 20-Day NLP Sprint**
