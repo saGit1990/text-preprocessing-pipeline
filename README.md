@@ -25,4 +25,8 @@ This project implement a classical NLP preprocessing pipeline:
 - Run the following code:
     'python main.py'
 
-**Part of my 20-Day NLP Sprint**
+## Author
+- Suel Ahmed
+- Actively building a portfolio of real-world NLP Projects
+
+**Part of my 20-Day MLP Spring Day#1**
